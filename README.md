@@ -12,3 +12,10 @@ So, the big question is: **How to predict bike demand to improve station operati
 
 ## **Goals**
 To solve this, we aim to build a model that predicts bike rental demand based on key factors like weather, temperature, and time. These predictions will help optimize station operations, balance bike availability, and enhance service efficiency, enabling stakeholders to make informed, data-driven decisions.
+
+## **Files**
+- bike_sharing_demand_prediction.ipynb (Model Notebook)
+- model_xgb_regressor.sav (the Model)
+- Capital Bikesharing Demand Predictions.pdf (the Presentation)
+- data_bike_sharing.csv (the Dataset)
+- Bike Sharing.docx (Dataset Dictionary)
